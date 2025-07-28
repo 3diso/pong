@@ -1,1 +1,1 @@
-You can download the whole file and compile it yourself with cargo run OR just download the binary via curl
+You can download the whole file and compile it yourself or download from the releases
