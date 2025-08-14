@@ -1,1 +1,1 @@
-You can download the whole file and compile it yourself with cargo run OR just download the binary via curl
+You can download the whole file and compile it yourself with cargo run OR just download the excutable from the releases section (you may have to mark it as executable, like chmod +x pong OR name it pong.exe on windows)
